@@ -1,0 +1,2 @@
+VirusTotal: https://www.virustotal.com/gui/home/upload
+Web Decompiler: https://tool.lu/pyc/
